@@ -23,7 +23,7 @@ MovieLens 100K -GroupLens research lab at the University of Minnesota
 
 Data containing 100K User ratings from 600 users 3000 descriptive tags
 
-<img src="./images/gr4.png " width="200" height="350" />
+<img src="./images/gr4.png " width="200" height="350" /><img src="./images/download.png " width="200" height="350" />
 
 
 ## Methods

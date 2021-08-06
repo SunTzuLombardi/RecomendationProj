@@ -1,5 +1,5 @@
 # RecomendationProj
-<img src="./images/4_FilmWizard.png " width="400" height="600" />
+<img src="./images/4_FilmWizard.png " width="700" height="600" />
 
 ## Overview
 

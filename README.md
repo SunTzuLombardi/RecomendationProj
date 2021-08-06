@@ -19,7 +19,7 @@ MovieLens 100K -GroupLens research lab at the University of Minnesota
 -Links to tmdb, imdb
 
 
-Data containing 100K User ratings from 600 users 3000 descriptive tags
+Data containing 100K User ratings from 600 users 3000 descriptive tags. The first wordcloud is tags from all the movies with rating gt 4.5.  The second is all of the tags for all of the tagged movies regardless of rating.
 
 <img src="./images/gr4.png " width="200" height="350" /><img src="./images/download.png " width="200" height="350" />
 

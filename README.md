@@ -1,7 +1,5 @@
 # RecomendationProj
-
-# Classification
-![4_FilmWizard.png](./images/4_FilmWizard.png?raw=true)
+<img src="./images/4_FilmWizard.png " width="400" height="600" />
 
 ## Overview
 

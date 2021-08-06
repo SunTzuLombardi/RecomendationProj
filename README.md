@@ -1,7 +1,7 @@
 # RecomendationProj
 
 # Classification
-![flightsbalance.jfif](./images/3NumOnTimeDelayedbyCarrier.png?raw=true)
+![4_FilmWizard.png](./images/4_FilmWizard.png?raw=true)
 
 ## Overview
 
@@ -21,8 +21,9 @@ MovieLens 100K -GroupLens research lab at the University of Minnesota
 -Links to tmdb, imdb
 
 
-Dat containing 100K User ratings from 600 users 3000 descriptive tags
+Data containing 100K User ratings from 600 users 3000 descriptive tags
 
+![gr4.png](./images/gr4.png?raw=true)
 
 
 ## Methods
@@ -34,16 +35,6 @@ We used a Collaborative Filtering Model Based approach for this first implementa
 
 
 ## Results
-
-![1TotalFlightsbyCarrier.png](./images/1TotalFlightsbyCarrier.png?raw=true)
-
-![2BusiestCitiesbyFlights.png](./images/2BusiestCitiesbyFlights.png?raw=true)
-
-
-
-
-
-![6delayedSplit.png](./images/6delayedSplit.png?raw=true)
 
 Best Predictive Results were found with the SVD algorithm
 With a RMSE of .8696, Fit time of 4 seconds which was reduced to 2 sec with Hyperparameter tuning.

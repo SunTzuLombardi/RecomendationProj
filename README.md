@@ -7,7 +7,7 @@ This project implements a Recommendation System for Movies.
 
 ## Business Problem
 
-Interested in a targeted system in order to improve stickiness on the gaming site.  Researching a Collaborative Filtering System initially
+Interested in a targeted system in order to improve stickiness on the gaming site. We were hired to Researching a Collaborative Filtering System.
 
 ## Data
 
